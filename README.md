@@ -1,6 +1,6 @@
 <img align="center" alt="web-developer" src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif">
 <h1 align="center">Hi 👋, I'm Purbasha Goswami</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purbasha222&label=Profile%20views&color=0e75b6&style=flat" alt="purbasha222" /> </p>
@@ -28,7 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purbasha222&show_icons=true&locale=en&layout=compact" alt="purbasha222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purbasha222&show_icons=true&locale=en" alt="purbasha222" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purbasha222&" alt="purbasha222" /></p>
 
 
