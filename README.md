@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **purbashagoswami2@gmail.com**
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purbasha222&show_icons=true&locale=en&layout=compact" alt="purbasha222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purbasha222&show_icons=true&locale=en" alt="purbasha222" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purbasha222&show_icons=true&locale=en" alt="purbasha222" /></p> -->
 
 
