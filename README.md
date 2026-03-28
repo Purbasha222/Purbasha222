@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **React,JavaScript**
 
 - 📫 How to reach me **purbashagoswami2@gmail.com**
 
