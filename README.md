@@ -7,16 +7,16 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **purbashagoswami2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@purbashagoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@purbashagoswami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/purbasha-goswami-63822529a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purbasha goswami" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/purbasha-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purbasha goswami" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/purbasha222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purbasha222" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/purbashagoswami2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@purbashagoswami2" height="30" width="40" /></a>
 </p>
